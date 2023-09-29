@@ -15,7 +15,7 @@
 
 ### Objetivos
 
-- 🚀 Meu objetivo é crescer como pessoa e desenvolvedor no dia a dia e colaborar com o avanço tecnológico de forma que agregue na vida das pessoas.
+- 🚀 Meu objetivo é crescer como pessoa e desenvolvedor no dia a dia e colaborar com o avanço tecnológico de forma que agregue valor na vida das pessoas.
 - 🌱 Estou sempre em busca de novos conhecimentos e oportunidades de aprendizado.
 <br><br>
 
