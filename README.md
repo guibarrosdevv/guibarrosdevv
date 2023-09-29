@@ -8,17 +8,20 @@
 - 🚀 Aprendendo atualmente JavaScript e jQuery
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-barross/)
 
+
 ### Ferramentas e Tecnologias
 
 - 💻 HTML, CSS, JavaScript, jQuery
 - 📦 Bootstrap
 - 🛠️ VS Code, Git
 
+
 ### Objetivos
 
 - 🚀 Meu objetivo é crescer como pessoa e desenvolvedor no dia a dia e colaborar com o avanço tecnológico de forma que agregue na vida das pessoas.
-- - 🌱 Estou sempre em busca de novos conhecimentos e oportunidades de aprendizado.
+- 🌱 Estou sempre em busca de novos conhecimentos e oportunidades de aprendizado.
 <br><br>
+
 
 <div>
 <a href="https://github.com/guibarross">
