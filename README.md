@@ -3,7 +3,6 @@
 
 - 👨‍💻 Atualmente trabalhando como Trainee de Desenvolvedor Júnior
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🚀 Aprendendo atualmente JavaScript e jQuery
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-barross/)
 
 
