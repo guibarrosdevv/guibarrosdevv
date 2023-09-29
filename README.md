@@ -1,5 +1,5 @@
 # Hello Word 👋
-## Bem vindo(a) ao meu perfil GitHub 👋
+## Bem vindo(a) ao meu perfil GitHub 
 
 ### Me chamo Guilherme! 
 
