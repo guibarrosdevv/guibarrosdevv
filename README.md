@@ -1,7 +1,7 @@
 # Hello Word 👋
 ## Me chamo Guilherme, seja muito bem vindo(a) ao meu perfil GitHub 
 
-- 👨‍💻 Atualmente trabalhando como Trainee de Desenvolvedor Júnior
+- 👨‍💻 Atualmente estou trabalhando como Trainee de Desenvolvedor Web
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-barross/)
 
