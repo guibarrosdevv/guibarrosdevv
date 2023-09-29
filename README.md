@@ -9,9 +9,9 @@
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-barross/)
 
 ### Ferramentas e Tecnologias
-- 💻 Linguagens de Programação: HTML, CSS, JavaScript
-- 📦 Frameworks: Bootstrap
-- 🛠️ Ferramentas: VS Code, Git
+- 💻 HTML, CSS, JavaScript, jQuery
+- 📦 Bootstrap
+- 🛠️ VS Code, Git
 
 - ### Objetivos
 
