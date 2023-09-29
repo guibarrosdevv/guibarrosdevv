@@ -1,7 +1,7 @@
 # Hello Word 👋
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo(a) ao meu perfil GitHub 👋
 
-### Olá, me chamo Guilherme! 
+### Me chamo Guilherme! 
 
 - 👨‍💻 Atualmente trabalhando como Trainee de Desenvolvedor Júnior
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
