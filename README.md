@@ -33,19 +33,10 @@
     </span>
 </div>
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guibarross&show_icons=true)
 
-## Contatos:
-<div>
-<a href="https://www.linkedin.com/in/guilherme-barross/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
-<div>
-<a href="https://github.com/guibarross">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
 ### Objetivos
 
 - 🌱 Estou sempre em busca de novos conhecimentos e oportunidades de aprendizado.
