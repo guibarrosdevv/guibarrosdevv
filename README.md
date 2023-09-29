@@ -18,7 +18,11 @@
 - 🌱 Estou sempre em busca de novos conhecimentos e oportunidades de aprendizado.
 - 🚀 Meu objetivo é crescer como pessoa e desenvolvedor no dia a dia e colaborar com o avanço tecnológico de forma que agregue na vida das pessoas.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guibarross&show_icons=true)
+<div>
+<a href="https://github.com/guibarross">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarross&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guibarross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 ### Projetos Recentes
