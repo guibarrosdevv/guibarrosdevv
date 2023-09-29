@@ -5,7 +5,7 @@
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
 ### Contato
-- <a target>🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-barross/)</a>
+- <a target="_blank">🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-barross/)</a>
 
 ### Ferramentas e Tecnologias
 
