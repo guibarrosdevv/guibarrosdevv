@@ -11,7 +11,7 @@
 
 - 💻 HTML, CSS, JavaScript, jQuery
 - 📦 Bootstrap
-- 🛠️ VS Code, Git
+- 🛠️ Git
 
 
 ### Objetivos
