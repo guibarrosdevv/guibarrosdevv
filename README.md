@@ -9,7 +9,7 @@
 
 ### Ferramentas e Tecnologias
 
-- 💻 HTML, CSS, JavaScript, jQuery
+- 💻 HTML, CSS, JavaScript, Laravel
 - 📦 Bootstrap
 - 🛠️ Git
 
