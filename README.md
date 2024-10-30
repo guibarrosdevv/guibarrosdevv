@@ -1,7 +1,7 @@
 # Hello Word 👋
 ## Me chamo Guilherme, seja muito bem vindo(a) ao meu perfil GitHub 
 
-- 👨‍💻 Trabalho como Trainee de Desenvolvedor Web
+- 👨‍💻 Sou Desenvolvedor Web FullStack
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
 ### Contato
@@ -9,7 +9,7 @@
 
 ### Ferramentas e Tecnologias
 
-- 💻 HTML, CSS, JavaScript, Laravel
+- 💻 HTML, CSS, JavaScript, Laravel, Livewire
 - 📦 Bootstrap
 - 🛠️ Git
 
