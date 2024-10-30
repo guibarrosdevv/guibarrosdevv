@@ -1,7 +1,7 @@
 # Hello Word 👋
 ## Me chamo Guilherme, seja muito bem vindo(a) ao meu perfil GitHub 
 
-- 👨‍💻 Sou Desenvolvedor Web FullStack
+- 👨‍💻 Sou Desenvolvedor Web Full Stack
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
 ### Contato
