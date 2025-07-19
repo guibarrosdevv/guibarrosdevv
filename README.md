@@ -1,7 +1,7 @@
 <h1 align="center">Dev Web Full Stack Jr👋🏽</h1>
 
 <p align="center">
-  Amante de código limpo, interfaces intuitivas e pela evolução constante 💡
+  Amante de código limpo, interfaces intuitivas e pela evolução constante 💡<br>
   Conheça um pouco mais da minha trajetoria 👇🏾
 </p>
 
