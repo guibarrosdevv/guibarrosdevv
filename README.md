@@ -85,5 +85,5 @@
 ---
 
 <p align="center">
-  Sempre aprendendo. Sempre evoluindo. Vamos codar? 🚀
+  Aprender, aplicar, melhorar. Um commit de cada vez. 
 </p>
