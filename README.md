@@ -1,15 +1,15 @@
 <h1 align="center">Olá, eu sou o Guilherme Barros 👋</h1>
 
 <p align="center">
-  Desenvolvedor Web Full Stack Jr na <strong>Sertras</strong> • Estudante de Análise e Desenvolvimento de Sistemas (2026)<br>
-  Apaixonado por código limpo, interfaces intuitivas e pela evolução constante 🚀
+  Desenvolvedor Web Full Stack Jr <br>
+  Amante de código limpo, interfaces intuitivas e pela evolução constante 💡
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 💼 Atualmente desenvolvendo e mantendo sistemas web na [Sertras]([https://www.sertras.com.br/](https://www.sertras.com/gestao-de-fornecedores/)), empresa especializada em **homologação de fornecedores e gestão de terceiros**.
+- 💼 Atualmente desenvolvendo e mantendo sistemas web na [Sertras]([[https://www.sertras.com.br](https://www.sertras.com/gestao-de-fornecedores/)/]), empresa especializada em **homologação de fornecedores e gestão de terceiros**.
 - 🧠 Em constante evolução: estudando **React** e aprofundando conhecimentos em **JavaScript moderno**.
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – conclusão em 2026.
 - ⚡ Gosto de unir backend robusto com interfaces claras, focando sempre em **experiência do usuário**.
