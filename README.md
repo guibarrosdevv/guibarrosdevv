@@ -48,7 +48,6 @@
 -->
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guibarrosdevv&show_icons=true&theme=react&count_private=true&hide=prs&hide_rank=false" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarrosdevv&layout=compact&theme=react&langs_count=8" height="165" />
 </p>
 
