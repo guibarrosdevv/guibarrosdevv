@@ -1,39 +1,76 @@
-# Hello Word 👋
-## Me chamo Guilherme, seja muito bem vindo(a) ao meu perfil GitHub 
+<h1 align="center">Olá, eu sou o Guilherme Barros 👋</h1>
 
-- 👨‍💻 Sou Desenvolvedor Web Full Stack
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas
+<p align="center">
+  Desenvolvedor Web Full Stack Jr na <strong>Sertras</strong> • Estudante de Análise e Desenvolvimento de Sistemas (2026)<br>
+  Apaixonado por código limpo, interfaces intuitivas e pela evolução constante 🚀
+</p>
 
-### Contato
-- <a href="https://www.linkedin.com/in/guilherme-barross/" target="_blank">🔗 LinkedIn</a>
+---
 
-### Ferramentas e Tecnologias
+### 🚀 Sobre mim
 
-- 💻 HTML, CSS, JavaScript, Laravel, Livewire
-- 📦 Bootstrap
-- 🛠️ Git
+- 💼 Atualmente desenvolvendo e mantendo sistemas web na [Sertras]([https://www.sertras.com.br/](https://www.sertras.com/gestao-de-fornecedores/)), empresa especializada em **homologação de fornecedores e gestão de terceiros**.
+- 🧠 Em constante evolução: estudando **React** e aprofundando conhecimentos em **JavaScript moderno**.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – conclusão em 2026.
+- ⚡ Gosto de unir backend robusto com interfaces claras, focando sempre em **experiência do usuário**.
 
+---
 
-### Objetivos
+### 🛠️ Tecnologias & Ferramentas
 
-- 🚀 Meu objetivo é crescer como pessoa e desenvolvedor no dia a dia e colaborar com o avanço tecnológico de forma que agregue valor na vida das pessoas.
-- 🌱 Estou sempre em busca de novos conhecimentos e oportunidades de aprendizado.
-<br><br>
+#### 💻 Front-end
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
 
+#### ⚙️ Back-end
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-F9322C?style=flat&logo=laravel)
+![Livewire](https://img.shields.io/badge/-Livewire-4E1A74?style=flat&logo=laravel)
 
-<div>
-<a href="https://github.com/guibarross">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarross&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guibarross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+#### 🗃️ Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 
-<!--
-### Projetos Recentes
+#### 🔄 Em andamento
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
-- [Projeto 1](link-do-projeto-1): Descreva aqui um projeto recente que você tenha concluído ou esteja trabalhando.
-- [Projeto 2](link-do-projeto-2): Outro exemplo de projeto relevante.
-- [Projeto 3](link-do-projeto-3): Mais um projeto incrível!
+---
 
--->
-  
+### 📊 GitHub em ação
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guibarrosdevv&show_icons=true&theme=react&count_private=true&hide=prs&hide_rank=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarrosdevv&layout=compact&theme=react&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=guibarrosdevv&theme=react&hide_border=false" height="150"/>
+</p>
+
+---
+
+### 📂 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| `Workout Register` | Registro de treinos pessoais com visual moderno | Laravel · Livewire · Tailwind CSS |
+| `Compliance Dashboard` | Dashboard de análise de fornecedores e due diligence | Laravel · Bootstrap · MySQL |
+
+🧪 Em breve: portfólio com mais projetos públicos
+
+---
+
+### 🤝 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seuuser.dev/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=github&logoColor=white)](https://github.com/SeuUsuario)
+
+---
+
+<p align="center">
+  Sempre aprendendo. Sempre evoluindo. Vamos codar? 🚀
+</p>
