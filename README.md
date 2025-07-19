@@ -35,7 +35,6 @@
 
 #### 🔄 Em andamento
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
 
