@@ -2,6 +2,7 @@
 
 <p align="center">
   Amante de código limpo, interfaces intuitivas e pela evolução constante 💡
+  Conheça um pouco mais da minha trajetoria 👇🏾
 </p>
 
 ---
