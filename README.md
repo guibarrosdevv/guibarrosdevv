@@ -48,7 +48,7 @@
 -->
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarrosdevv&layout=compact&theme=react&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarrosdevv&layout=compact&theme=react&langs_count=8" width="350" height="200" />
 </p>
 
 
