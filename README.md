@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Atualmente desenvolvendo e mantendo sistemas web na Sertras, empresa especializada em homologação de fornecedores e gestão de terceiros, utilizando Laravel, Livewire, PHP, MySQL**.
+- 💼 Atualmente desenvolvendo e mantendo sistemas web na Sertras, empresa especializada em homologação de fornecedores e gestão de terceiros, utilizando **PHP, Laravel, Livewire, MySQL**.
 - 🧠 Em constante evolução: estudando **React** e aprofundando conhecimentos em **JavaScript moderno**.
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – conclusão em 2026.
 - ⚡ Gosto de unir backend robusto com interfaces claras, focando sempre em **experiência do usuário**.
