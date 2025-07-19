@@ -1,7 +1,6 @@
-<h1 align="center">Olá, eu sou o Guilherme Barros 👋</h1>
+<h1 align="center">Guilherme Barros | Dev Web Full Stack Jr👋</h1>
 
 <p align="center">
-  Desenvolvedor Web Full Stack Jr <br>
   Amante de código limpo, interfaces intuitivas e pela evolução constante 💡
 </p>
 
