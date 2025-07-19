@@ -69,7 +69,7 @@
 | `Compliance Dashboard` | Dashboard de análise de fornecedores e due diligence | Laravel · Bootstrap · MySQL |
 -->
 
-🧪 Em breve: portfólio com mais projetos públicos
+### 🧪 Em breve: portfólio com mais projetos públicos
  <p>
   ...
 </p>
