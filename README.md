@@ -40,10 +40,12 @@
 
 ### 📊 GitHub em ação
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guibarrosdevv&show_icons=true&theme=react&count_private=true&hide=prs&hide_rank=false" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarrosdevv&layout=compact&theme=react&langs_count=8" height="165" />
 </p>
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=guibarrosdevv&theme=react&hide_border=false" height="150"/>
@@ -51,15 +53,17 @@
 
 ---
 
+<!--
 ### 📂 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | `Workout Register` | Registro de treinos pessoais com visual moderno | Laravel · Livewire · Tailwind CSS |
 | `Compliance Dashboard` | Dashboard de análise de fornecedores e due diligence | Laravel · Bootstrap · MySQL |
+-->
 
 🧪 Em breve: portfólio com mais projetos públicos
-
+...
 ---
 
 ### 🤝 Vamos nos conectar?
