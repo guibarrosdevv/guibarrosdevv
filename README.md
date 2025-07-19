@@ -60,7 +60,7 @@
 ---
 
 <!--
-### 🤝🏽 Projetos em destaque
+### 🎯 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
@@ -74,7 +74,7 @@
 </p>
 ---
 
-### 🤝 Vamos nos conectar?
+### 🤝🏽 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barross/)
 <!--
