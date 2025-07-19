@@ -1,4 +1,4 @@
-<h1 align="center">Guilherme Barros - Dev Web Full Stack Jr👋</h1>
+<h1 align="center">Guilherme Barros - Dev Web Full Stack Jr🧑🏽‍💻</h1>
 
 <p align="center">
   Amante de código limpo, interfaces intuitivas e pela evolução constante 💡
@@ -60,7 +60,7 @@
 ---
 
 <!--
-### 📂 Projetos em destaque
+### 🤝🏽 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
