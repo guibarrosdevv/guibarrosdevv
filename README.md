@@ -1,89 +1,83 @@
-<h1 align="center">Dev Web Full Stack 👋🏽</h1>
+# Dev Web Full Stack | PHP • Laravel • APIs RESTful • Livewire • JavaScript 👋🏽
 
-<p align="center">
-  Amante de código limpo, interfaces intuitivas e da evolução constante 💡<br>
-  É um prazer receber você aqui. Te convido para conhecer um pouco mais da minha trajetória 👇🏾
+<p align="left">
+  <strong>Desenvolvedor Full Stack com foco no ecossistema PHP e Laravel, atuando na construção de sistemas web e na resolução de problemas de negócio. Combinando uma trajetória corporativa à engenharia de software, busco desenvolver soluções voltadas a otimizar processos e melhorar a eficiência operacional.</strong>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 💼 Atualmente desenvolvendo e mantendo sistemas web na Sertras, empresa especializada em homologação de fornecedores e gestão de terceiros, utilizando **PHP, Laravel, Livewire, MySQL**.
-- 🧠 Em constante evolução: estudando **React** e aprofundando conhecimentos em **JavaScript moderno**.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – conclusão em 2026.
-- ⚡ Gosto de unir backend robusto com interfaces claras, focando sempre em **experiência do usuário**.
+- 💼 **Atuação Atual:** Desenvolvedor Web Full Stack na Sertras, onde atuo no desenvolvimento e na evolução de sistemas corporativos. No backend, trabalho com a arquitetura MVC do Laravel, Eloquent ORM, modelagem de banco de dados MySQL e na implementação de rotinas automatizadas em segundo plano (Cron)[span_7](start_span)[span_7](end_span).
+- ⚙️ **Interfaces Reativas:** No frontend, construo componentes dinâmicos e assíncronos utilizando Livewire e Alpine.js, focando em entregar uma experiência fluida e de alta usabilidade para o usuário final[span_8](start_span)[span_8](end_span).
+- 🌐 **Projetos Autônomos:** Aplico conhecimentos em desenvolvimento web na criação de soluções para clientes reais (Freelancer), explorando tecnologias de frontend como React e Next.js para entregar interfaces performáticas e otimizadas[span_9](start_span)[span_9](end_span).
+- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (Previsão de conclusão em 2026)[span_10](start_span)[span_10](end_span).
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### 💻 Front-end
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+#### ⚙️ Back-end & Banco de Dados
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### ⚙️ Back-end
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-F9322C?style=flat&logo=laravel)
-![Livewire](https://img.shields.io/badge/-Livewire-4E1A74?style=flat&logo=laravel)
+#### 💻 Front-end & Reatividade
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🗃️ Banco de Dados
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-
-#### 🔄 Em andamento
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+#### ⚡ Stack Complementar
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
 ### 📊 GitHub em ação
 
- <!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guibarrosdevv&show_icons=true&theme=react&count_private=true&hide=prs&hide_rank=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarrosdevv&layout=compact&theme=react&langs_count=8" height="165"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarrosdevv&layout=compact&theme=react&langs_count=8" height="180" />
 </p>
--->
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibarrosdevv&layout=compact&theme=react&langs_count=8" height="200" />
-</p>
-
-
-<!--
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=guibarrosdevv&theme=react&hide_border=false" height="150"/>
-</p>
--->
 
 ---
 
-<!--
-### 🎯 Projetos em destaque
+### 💻 Projetos & Portfólio (Aplicações Reais)
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| `Workout Register` | Registro de treinos pessoais com visual moderno | Laravel · Livewire · Tailwind CSS |
-| `Compliance Dashboard` | Dashboard de análise de fornecedores e due diligence | Laravel · Bootstrap · MySQL |
--->
+#### 🏨 Plataforma Corporativa – Hotel Fazenda Bom Retiro
+*Desenvolvimento e publicação de plataforma web com foco em conversão, usabilidade e apresentação estruturada de serviços e chalés.*
+* **Impacto de Negócio:** Solução projetada para otimizar o fluxo de atendimento digital, organizando informações de disponibilidade e regras de negócio claras para o usuário final.
+* **Competências:** Design Responsivo • Otimização de Performance • SEO Técnico • Deploy em Produção.
+* 🌐 [Acessar Projeto em Produção](https://hotelfazendabomretiro.com.br/)
 
-### 🧪 Em breve: portfólio com mais projetos públicos
- <p>
-  ...
-</p>
+#### 🧠 Plataforma Profissional – Psicóloga Rafaela Barros
+*Construção de ecossistema digital institucional com foco em posicionamento de autoridade, agendamentos e experiência do usuário (UX).*
+* **Impacto de Negócio:** Interface clean, responsiva e intuitiva voltada especificamente para a captação e conversão de potenciais clientes.
+* **Competências:** UI/UX Design • Performance Web • Otimização de SEO • Gerenciamento de Domínio e Hospedagem.
+* 🌐 [Acessar Projeto em Produção](https://www.psicologarafaelabarros.com.br/)
+
+---
+
+### 🏋️‍♂️ No Laboratório (Build in Public)
+
+#### 📊 Workout Register `[Em Desenvolvimento / MVP]`
+*Aplicação Full Stack de ponta a ponta desenvolvida para registro de treinos de musculação, controle de cargas e análise contínua de evolução física.*
+* **Destaques de Engenharia:** Implementação de lógicas backend para sinalização estratégica de carga máxima (RM) e geração automatizada de relatórios de performance gráfica.
+* **Stack:** PHP • Framework Laravel • Livewire • Alpine.js • MySQL.
+* ⚙️ Componentização reativa avançada para garantir uma experiência SPA (Single Page Application) fluida.
+
 ---
 
 ### 🤝🏽 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barross/)
-<!--
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seuuser.dev/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=github&logoColor=white)](https://github.com/SeuUsuario)
--->
+Seja para discutir sobre arquitetura de software, novos desafios técnicos ou oportunidades de mercado, sinta-se à vontade para entrar em contato!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barross/)
+
 ---
 
 <p align="center">
-  Aprender, aplicar, melhorar. Um commit de cada vez. 
+  Aprender, aplicar, melhorar. Um commit de cada vez. 💻
 </p>
