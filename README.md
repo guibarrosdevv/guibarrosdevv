@@ -8,10 +8,10 @@
 
 ### 🚀 Sobre mim
 
-- 💼 **Atuação Atual:** Desenvolvedor Web Full Stack na Sertras, onde atuo no desenvolvimento e na evolução de sistemas corporativos. No backend, trabalho com a arquitetura MVC do Laravel, Eloquent ORM, modelagem de banco de dados MySQL e na implementação de rotinas automatizadas em segundo plano (Cron)[span_7](start_span)[span_7](end_span).
-- ⚙️ **Interfaces Reativas:** No frontend, construo componentes dinâmicos e assíncronos utilizando Livewire e Alpine.js, focando em entregar uma experiência fluida e de alta usabilidade para o usuário final[span_8](start_span)[span_8](end_span).
-- 🌐 **Projetos Autônomos:** Aplico conhecimentos em desenvolvimento web na criação de soluções para clientes reais (Freelancer), explorando tecnologias de frontend como React e Next.js para entregar interfaces performáticas e otimizadas[span_9](start_span)[span_9](end_span).
-- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (Previsão de conclusão em 2026)[span_10](start_span)[span_10](end_span).
+- 💼 **Atuação Atual:** Desenvolvedor Web Full Stack na Sertras, onde atuo no desenvolvimento e na evolução de sistemas corporativos. No backend, trabalho com a arquitetura MVC do Laravel, Eloquent ORM, modelagem de banco de dados MySQL e na implementação de rotinas automatizadas em segundo plano (Cron).
+- ⚙️ **Interfaces Reativas:** No frontend, construo componentes dinâmicos e assíncronos utilizando Livewire e Alpine.js, focando em entregar uma experiência fluida e de alta usabilidade para o usuário final.
+- 🌐 **Projetos Autônomos:** Aplico conhecimentos em desenvolvimento web na criação de soluções para clientes reais (Freelancer), explorando tecnologias de frontend como React e Next.js para entregar interfaces performáticas e otimizadas.
+- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (Previsão de conclusão em 2026).
 
 ---
 
