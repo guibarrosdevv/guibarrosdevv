@@ -40,6 +40,7 @@ Análise e Desenvolvimento de Sistemas — Descomplica, conclusão em 2026.
 
 [LinkedIn](https://linkedin.com/in/guilherme-barross)
 
+
 <details>
 <summary>In English</summary>
 
